@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# HR Analytics Power-BI-Dashboard
 
 
 This project is an analysis of employee attrition in a fictional company using Power BI. The goal of the project is to identify the factors that contribute to employee turnover and to provide insights that can help the company retain its employees.
